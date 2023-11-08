@@ -35,6 +35,6 @@ Blog :
 <br>
 
 ## Skills 💪
- - 백엔드
- - 프론트엔드
- - 어쩌고
+ - Back : 
+ - Front : 
+ - Tool : ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
