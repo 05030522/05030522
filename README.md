@@ -16,9 +16,10 @@ Blog :
 
 <br>
 
-## Project 🤹‍♀️
-- (00.00 - 00.00) 경력 1
-- (19.00 - 19.00) 경력 2
+## Project & Study 🤹‍♀️
+- (23.06 - 23.09) [Jave Algorithm Study](https://github.com/05030522/Java_Study)
+- (23.08 - 23.09) [LAFESTA Team Project](https://github.com/LaFesta7/LikeFesta)
+- (23.11 - ) [Iam- Personal Project](https://github.com/05030522/Iam-)
 
 <br>
 
