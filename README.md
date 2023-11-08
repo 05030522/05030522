@@ -1,4 +1,5 @@
-# 권진혁 JinHyuk Kwon 👋
+# 권진혁 JinHyuk Kwon
+Hello, I'm Jinhyuk 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F05030522&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjinhx96@gmail.com)](mailto:kjinhx96@gmail.com)
