@@ -10,7 +10,7 @@ Naver mail :
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kjinhx05@naver.com)](mailto:kjinhx05@naver.com)
 
 Blog : 
-[![Blog Badge](http://img.shields.io/badge/Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/kjinhx05)](https://blog.naver.com/kjinhx05)
+[![Blog Badge](http://img.shields.io/badge/Blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/kjinhx05)](https://blog.naver.com/kjinhx05)
 
 <br>
 
