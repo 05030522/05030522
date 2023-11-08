@@ -17,9 +17,12 @@ Blog :
 <br>
 
 ## Project & Study 💻
+- (23.06 - 23.06) [PLUG Team Project](https://github.com/05030522/plug)
 - (23.06 - 23.09) [Jave Algorithm Study](https://github.com/05030522/Java_Study)
 - (23.08 - 23.09) [LAFESTA Team Project](https://github.com/LaFesta7/LikeFesta)
-- (23.11 - ) [Iam- Personal Project](https://github.com/05030522/Iam-)
+- (23.11 ~ ) [Iam- Personal Project](https://github.com/05030522/Iam-)
+- (23.11 ~ ) [ORM JPA Personal Study](https://github.com/05030522/java-ORM-JPA)
+- (23.11 ~ ) [Jave Algorithm Study2](https://github.com/05030522)
 
 <br>
 
