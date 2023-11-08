@@ -16,7 +16,7 @@ Blog :
 
 <br>
 
-## Project & Study 🤹‍♀️
+## Project & Study 🤹‍♀
 - (23.06 - 23.09) [Jave Algorithm Study](https://github.com/05030522/Java_Study)
 - (23.08 - 23.09) [LAFESTA Team Project](https://github.com/LaFesta7/LikeFesta)
 - (23.11 - ) [Iam- Personal Project](https://github.com/05030522/Iam-)
@@ -31,7 +31,6 @@ Blog :
 ## Interest 👀
 - 흥미1
 - 흥미2
-[출처] [Github] 깃허브에 자기소개 readme.md 내 스타일로 꾸미기 : Mark down|작성자 주힝
 
 <br>
 
