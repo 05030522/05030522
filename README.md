@@ -1,7 +1,7 @@
 # 권진혁 JinHyuk Kwon
 Hello, I'm BackEnd Developer Jinhyuk 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=05030522)](https://github.com/anuraghazra/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F05030522&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 
@@ -13,7 +13,7 @@ Blog :
 [![Blog Badge](http://img.shields.io/badge/Blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/kjinhx05)](https://blog.naver.com/kjinhx05)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F05030522&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=05030522)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
