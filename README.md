@@ -6,7 +6,7 @@ Hello, I'm Jinhyuk 👋
 <br>
 
 Mail : 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjinhx96@gmail.com)](mailto:kjinhx96@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Google&logoColor=white&link=mailto:kjinhx96@gmail.com)](mailto:kjinhx96@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kjinhx05@naver.com)](mailto:kjinhx05@naver.com)
 
 Blog : 
