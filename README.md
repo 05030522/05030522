@@ -24,7 +24,7 @@ Blog :
 <br>
 
 ## Portfolio 📘
-- 포트폴리오 링크 [![Notion Badge](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://chatter-vision-9fa.notion.site/3535069952a742928fe24a19eb152e75?pvs=4)](https://chatter-vision-9fa.notion.site/3535069952a742928fe24a19eb152e75?pvs=4)
+- [![Notion Badge](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://chatter-vision-9fa.notion.site/3535069952a742928fe24a19eb152e75?pvs=4)](https://chatter-vision-9fa.notion.site/3535069952a742928fe24a19eb152e75?pvs=4)
 
 <br>
 
