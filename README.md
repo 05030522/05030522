@@ -16,7 +16,7 @@ Blog :
 
 <br>
 
-## Project & Study 🤹‍♀
+## Project & Study 💻
 - (23.06 - 23.09) [Jave Algorithm Study](https://github.com/05030522/Java_Study)
 - (23.08 - 23.09) [LAFESTA Team Project](https://github.com/LaFesta7/LikeFesta)
 - (23.11 - ) [Iam- Personal Project](https://github.com/05030522/Iam-)
@@ -28,13 +28,12 @@ Blog :
 
 <br>
 
-## Interest 👀
-- 흥미1
-- 흥미2
+## Academy 🎓
+- (23.04 - 23.09) SpartaCodingClub BootCamp 스파르타 코딩클럽 내일배움캠프 Spring 6기 수료
 
 <br>
 
-## Skills 💪
+## Skills 🔧
  - OS :  ![window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  - Back : ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![aws](	https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![postman](	https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![jwt](	https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink) ![h2](	https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![springsecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white) ![swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
  - Front : ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![jquery](	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
