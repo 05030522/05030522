@@ -1,16 +1,24 @@
-### Hi there 👋
+header
 
-<!--
-**05030522/05030522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Joyful Joy 🥳
 
-Here are some ideas to get you started:
+Hello, I'm Juhee (Joy).
+My goal is to give good influence to society.
+Have a day full of JOY today.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Hits
+
+﹏﹏﹏﹏﹏﹏﹏
+
+
+
+
+💻 Tech Stack 💻
+
+ 
+   
+  
+
+footer
