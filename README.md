@@ -20,9 +20,9 @@ Blog :
 - (23.06 - 23.06) [PLUG Team Project](https://github.com/05030522/plug)
 - (23.06 - 23.09) [Programmers Jave Algorithm Study](https://github.com/05030522/Java_Study)
 - (23.08 - 23.09) [LAFESTA Team Project](https://github.com/LaFesta7/LikeFesta)
-- (23.11 ~ ) [Iam- Personal Project](https://github.com/05030522/Iam-)
 - (23.11 ~ ) [ORM JPA Personal Study](https://github.com/05030522/java-ORM-JPA)
-- (23.11 ~ ) [BACKJOON Jave Algorithm Study](https://github.com/05030522/BackJoon)
+- (23.11 ~ ) [programmers Jave Algorithm Study](https://blog.naver.com/kjinhx05)(카테고리 Programmers)
+- (24.02 ~ ) [인프런워밍업스터디0기 백엔드](https://github.com/05030522/library-app)
 
 <br>
 
